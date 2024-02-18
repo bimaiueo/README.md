@@ -2,7 +2,10 @@
 
 Langkah 1
 
-Untuk menampilkan diagram dari database, klik nama databasenya, di bagian atas klik More, lalu klik Designer!
+Untuk menampilkan diagram dari basis data caranya : klik nama basis data kemudian pilih tab
+more, pilih menu designer
+
+![Screenshot (47)](https://github.com/bimaiueo/README.md/assets/145304580/9e65eedb-9545-49ca-9f30-69285db1edb8)
 
 ![Screenshot (48)](https://github.com/bimaiueo/README.md/assets/145304580/93b1b2fa-9a83-43c2-a736-c4bba0580182)
 
