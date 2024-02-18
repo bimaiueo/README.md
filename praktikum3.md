@@ -40,6 +40,38 @@ Langkah 4
 
 Jelaskan bagaimana solusi agar data pada soal 2 dapat ditambahkan <SOAL 3>
 
+    -Cara agar data pada dapat ditambahkan yaitu dengan merubah nilai dari kode_penjualan Doni yang mulanya 2 menjadi 4
+![Screenshot (59)](https://github.com/bimaiueo/README.md/assets/145304580/d7bbdd95-ff54-4062-9090-064c9d39c7bb)
+
+Langkah 5
+
+Tambahkan data detail_penjualan sebagaimana berikut <SOAL 4>
+
+- kode_penjualan = 2
+  
+- kode_barang = 3
+  
+- harga = 5.000
+  
+- jumlah = 5
+
+![Screenshot (57)](https://github.com/bimaiueo/README.md/assets/145304580/7e7e70e1-426c-472a-a606-cb973c38b019)
+
+Apakah data dapat ditambahkan? Jelaskan alasannya !
+
+    - Data dapat ditambahkan karena sebelumnya belum ada data ini dalam tabel detail_penjualan
+    
+Jelaskan bagaimana solusi agar data pada soal 4 dapat ditambahkan <SOAL 5>
+   
+    - Data berhasil ditambahkan tanpa ada masalah atau error
+
+Terangkan apa yang bisa anda pahami dari soal 1-5 terkait dengan duplikasi dan inkonsisten data
+<SOAL 6>
+
+    - Yang saya pahami adalah terdapat primery key pada tabel detail penjualan sehingga kode yang ditambahkan tidak boleh sama, dan ketika ada data yang sama akan menghasilkan 'error duplicate entry for key primery' 
+    
+
+
 
 
 
